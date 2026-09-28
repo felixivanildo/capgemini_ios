@@ -20,4 +20,4 @@ Java com spring e Angular
 
 ## Tempo de Atuacao
 
-5 Anoss
+5 Anos
